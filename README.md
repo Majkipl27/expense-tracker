@@ -2,7 +2,7 @@
 Expense Tracker made fully in React (Java Script modern framework developed by Meta(old facebook))
 
 
-I don't really know what to write hear so I will write translated by google recipe for bigos (traditional polish meal) I found at https://www.kwestiasmaku.com/przepis/bigos-z-kiszonej-kapusty.
+I don't really know what to write here so I will write translated by google recipe for bigos (traditional Polish meal) I found at https://www.kwestiasmaku.com/przepis/bigos-z-kiszonej-kapusty.
 
 ![Bigos photo](https://www.kwestiasmaku.com/sites/v123.kwestiasmaku.com/files/bigos_z_kiszonej_kapusty.jpg)
  
